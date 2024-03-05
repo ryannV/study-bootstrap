@@ -4,7 +4,7 @@
 Este repositório é dedicado para minha aprendizagem, práticas e teste sobre Bootstrap. Aliado com o curso de Desenvolvimento Web da Udemy.
 
 
-### Recursos Textos
+## Recursos Textos
 • class transformar em títulos maiores.
 
 `display-1`
@@ -46,7 +46,7 @@ Este repositório é dedicado para minha aprendizagem, práticas e teste sobre B
 
 
 
-### Alinhamentos Textos
+## Alinhamentos Textos
 • class para justificar texto.
 
 `text-justify`
